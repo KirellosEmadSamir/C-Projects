@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1648735512 source:c:\users\kirel\desktop\nti\flight booking system\doublylinkedlist.c
+	"DoublyLinkedList.h"
+	<string.h>
+
+1648735898 c:\users\kirel\desktop\nti\flight booking system\doublylinkedlist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"STD_TYPES.h"
+
+1648287795 c:\users\kirel\desktop\nti\flight booking system\std_types.h
+
+1648736361 source:c:\users\kirel\desktop\nti\flight booking system\main.c
+	"config.h"
+
+1648655054 c:\users\kirel\desktop\nti\flight booking system\main.h
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"DoublyLinkedList.h"
+
+1648655054 c:\users\kirel\desktop\nti\flight booking system\config.h
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"DoublyLinkedList.h"
+
